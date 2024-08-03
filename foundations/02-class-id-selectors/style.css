@@ -1,0 +1,28 @@
+.p1{
+    background-color: light red;
+    font: `Verdana`,`DejaVu Sans`,`sans-serif`,fallback;
+
+}
+.p2{
+    background-color: light red;
+    font: `Verdana`,`DejaVu Sans`,`sans-serif`,fallback;
+    font-size: 24px;
+}
+.p3{
+    background-color: light red;
+    font: `Verdana`,`DejaVu Sans`,`sans-serif`,fallback;
+    font-weight: bold;
+    background-color: lightgreen;
+    font-size: 24px;
+}
+.div1{
+    background-color: light red;
+    font: `Verdana`,`DejaVu Sans`,`sans-serif`,fallback;
+}
+.div2{
+
+    background-color: light red;
+    font: `Verdana`,`DejaVu Sans`,`sans-serif`,fallback;
+    color: blue;
+    font-size: 36px;
+}
